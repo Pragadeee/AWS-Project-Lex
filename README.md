@@ -24,3 +24,8 @@ Deploy Lambda Functions: Follow the steps to deploy custom AWS Lambda functions 
 Customize Slot Types: Modify accountType or add new slot types based on user needs.
 Test and Adjust: Experiment with conversation flow, slot prompts, and response variations to fine-tune user experience.
 Our bot now handles both checking balances and transferring funds between accounts, providing a comprehensive and intuitive banking support experience!
+
+How to Integrate
+Add to Your Application: With Amazon Lex’s flexible APIs, this chatbot can be embedded in web and mobile applications or backend systems. Just connect it through Amazon Lex's SDKs to handle user requests in real-time.
+Customizable Responses and Prompts: Adjust responses and prompts to align with your app’s user interface and tone.
+Flexible Deployment: The chatbot is ready for integration into AWS environments and can scale to meet varying traffic demands.
